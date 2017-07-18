@@ -96,5 +96,7 @@ public class PlaylistOperations {
             }
 
         } while (!choice.equalsIgnoreCase("Q"));
+
+        System.exit(0);
     }
 }
